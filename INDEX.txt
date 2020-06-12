@@ -1,0 +1,42 @@
+<HTML>
+<HEAD>
+<TITLE>Curriculum Brian</TITLE>
+<style type="text/css">
+p.rightmargin<margin-right:60%>
+</style>
+</HEAD>
+<BODY background="fondo.jpg" BGCOLOR="purple">
+<BODY LINK="purple" VLINK="purple" ALINK="purple">
+
+<h1 align="center"><FONT COLOR="brown"> CURRICULUM VITAE </FONT></h1><br>
+<h1 align="center">
+
+<p><img src="foto.jpg" align="left" hspace="20" vspace="5" <br><br><div>
+<p align="rent"><FONT COLOR="black">Mi nombre es Brian Jair<br>
+Fecha De Nacimiento 03/10/2001<br> Direccion: Calle Norte 10 Pte 45 #55 <br>
+Telefono: 272 120 83 21<br>
+Mi correo es:brian@gmail.com
+</p>
+
+<p align="center"> <Font color="celeste" size=8 Face="impacgt"><br>ESTUDIOS</FONT> <br>
+<p align="center"><Font color ="black"><b><OL><LI>PRIMARIA</b> Colegio Mexico, Certificado<br>
+<b><LI>SECUNDARIA</b>-Colegio Mexico,certificado</br>
+<b><LI>PREPARATORIA</b>-Itec Siglo XXI,por terminar</br></font> <OL>
+</p>
+
+<p align="right"><FONT COLOR="celeste" SIZE="5" FACE="Impact">CONOCIMIENTOS:</FONT><br>
+<FONT COLOR="black"></b>PROGRAMAS</b> Word, Excel,PowerPoint, Acces,Photoshop, Corel Draw, Visual Fox Pro, Paint, Block de notas,<br><LI><b> Jugar futbol, Archivar expedientes, Navegar en internet.<br>
+
+<p align="right"><FONT COLOR="celeste" SIZE="5" FACE="Impact">IDIOMAS:</FONT COLOR="black"><br>
+Ingles 85%, Español 100%</FONT>
+</p>
+
+<p align="center"><FONT COLOR="celeste" SIZE="5" FACE="Impact">ENFOQUE PERSONAL Y DATOS DE 
+INTERES:</FONT><br>
+
+<p align="justified" class="rightmargin" <FONT COLOR="black" SIZE="5" FACE="DomCasual
+BT">Soy una persona positivo,feliz,inteligente y tranquilo, Me gusta jugar futbol,Escuchar musica y Pasar Momentos Agradables con las personas Que Me Rodean y Aprecio.</FONT><br><br>
+</p>
+<p align="center"><FONT COLOR="orange">Atentamente Brian</FONT></p>
+<BODY>
+</HTML>
